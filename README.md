@@ -7,4 +7,8 @@ Part A) leadGenerationAgentADK
 
 Part B)  gemini-cli-on-adk  
 
+Part C) Could not get to work 
+
 Part D) code_review_assistant
+
+Part E) No source code since file is 90MB Video file: https://youtu.be/4moex-ikFZU
