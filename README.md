@@ -6,3 +6,5 @@ youtube playlist: https://www.youtube.com/playlist?list=PLGNt_mXNKtoryGkHoF010b4
 Part A) leadGenerationAgentADK
 
 Part B)  gemini-cli-on-adk  
+
+Part D) code_review_assistant
